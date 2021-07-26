@@ -4,7 +4,10 @@ git mv nombre_viejo nombre_nuevo
 git add nombre_nuevo -> agrega el nuevo archivo al stage
 git rm nombre_viejo -> eliminar el archivo viejo
 
-linea1
+l
 linea2
 linea3
 linea4
+
+
+linea13
