@@ -5,3 +5,4 @@ git add nombre_nuevo -> agrega el nuevo archivo al stage
 git rm nombre_viejo -> eliminar el archivo viejo
 
 linea1
+linea2
